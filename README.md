@@ -1,4 +1,4 @@
-This will be a place for me to upload my projects.
+This will be a place for me to upload my projects. And stuff that I'd like potential employers to see.
 
 -I have nearly a decade of experience in writing Python code.
 
